@@ -1,0 +1,28 @@
+{
+  "name": "laboratorio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lab": "tsx src/lab.ts",
+    "dev": "tsx src/01-oop/01-classes-e-objetos/index.ts",
+    "dev:srp": "tsx src/03-solid/01-srp/violacao/index.ts",
+    "typecheck": "tsc --noEmit",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/mssql": "^12.3.0",
+    "@types/node": "^26.1.2",
+    "@types/nodemailer": "^8.0.1",
+    "tsx": "^4.23.1",
+    "typescript": "^7.0.2"
+  },
+  "dependencies": {
+    "mssql": "^12.7.0",
+    "nodemailer": "^9.0.3"
+  }
+}
