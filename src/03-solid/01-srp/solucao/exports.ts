@@ -1,0 +1,6 @@
+export * from './cliente'
+export * from './client.service'
+export * from './cliente.repository'
+export * from './cpf'
+export * from './email'
+export * from './email.service'

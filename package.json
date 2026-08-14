@@ -6,7 +6,7 @@
   "scripts": {
     "lab": "tsx src/lab.ts",
     "dev": "tsx src/01-oop/01-classes-e-objetos/index.ts",
-    "dev:srp": "tsx src/03-solid/01-srp/violacao/index.ts",
+    "dev:srp": "tsx src/03-solid/01-srp/solucao/index.ts",
     "typecheck": "tsc --noEmit",
     "build": "tsc"
   },
